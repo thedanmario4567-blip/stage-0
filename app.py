@@ -42,8 +42,8 @@ def get_profile(request: Request):
         return{
             "status": "success",
             "user": {
-                "email": "olanrewajusholarin5@gmail.com",
-                "name": "Olanrewaju Sholarin",
+                "email": "tochukwuihejirika3@gmail.com",
+                "name": "Tochukwu Ihejirika",
                 "stack": "Python/FastAPI"
             },
             "timestamp": datetime.now(ng_tz).isoformat(),
